@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\CodebitsAcademy\\C#  labTask\\labTask5-Arrays\\numFive\\numFive.csproj": {}
+  },
+  "projects": {
+    "C:\\CodebitsAcademy\\C#  labTask\\labTask5-Arrays\\numFive\\numFive.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CodebitsAcademy\\C#  labTask\\labTask5-Arrays\\numFive\\numFive.csproj",
+        "projectName": "numFive",
+        "projectPath": "C:\\CodebitsAcademy\\C#  labTask\\labTask5-Arrays\\numFive\\numFive.csproj",
+        "packagesPath": "C:\\Users\\Aina\\.nuget\\packages\\",
+        "outputPath": "C:\\CodebitsAcademy\\C#  labTask\\labTask5-Arrays\\numFive\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Aina\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

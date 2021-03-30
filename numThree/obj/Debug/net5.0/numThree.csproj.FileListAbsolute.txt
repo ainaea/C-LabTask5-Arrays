@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\C#  labTask\labTask5-Arrays\numThree\obj\Debug\net5.0\numThree.csprojAssemblyReference.cache
+C:\CodebitsAcademy\C#  labTask\labTask5-Arrays\numThree\obj\Debug\net5.0\numThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\C#  labTask\labTask5-Arrays\numThree\obj\Debug\net5.0\numThree.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask5-Arrays\numThree\obj\Debug\net5.0\numThree.AssemblyInfo.cs
+C:\CodebitsAcademy\C#  labTask\labTask5-Arrays\numThree\obj\Debug\net5.0\numThree.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask5-Arrays\numThree\bin\Debug\net5.0\numThree.exe
+C:\CodebitsAcademy\C#  labTask\labTask5-Arrays\numThree\bin\Debug\net5.0\numThree.deps.json
+C:\CodebitsAcademy\C#  labTask\labTask5-Arrays\numThree\bin\Debug\net5.0\numThree.runtimeconfig.json
+C:\CodebitsAcademy\C#  labTask\labTask5-Arrays\numThree\bin\Debug\net5.0\numThree.runtimeconfig.dev.json
+C:\CodebitsAcademy\C#  labTask\labTask5-Arrays\numThree\bin\Debug\net5.0\numThree.dll
+C:\CodebitsAcademy\C#  labTask\labTask5-Arrays\numThree\bin\Debug\net5.0\ref\numThree.dll
+C:\CodebitsAcademy\C#  labTask\labTask5-Arrays\numThree\bin\Debug\net5.0\numThree.pdb
+C:\CodebitsAcademy\C#  labTask\labTask5-Arrays\numThree\obj\Debug\net5.0\numThree.dll
+C:\CodebitsAcademy\C#  labTask\labTask5-Arrays\numThree\obj\Debug\net5.0\ref\numThree.dll
+C:\CodebitsAcademy\C#  labTask\labTask5-Arrays\numThree\obj\Debug\net5.0\numThree.pdb
+C:\CodebitsAcademy\C#  labTask\labTask5-Arrays\numThree\obj\Debug\net5.0\numThree.genruntimeconfig.cache

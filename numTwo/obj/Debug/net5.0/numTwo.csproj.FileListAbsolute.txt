@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\C#  labTask\labTask5-Arrays\numTwo\bin\Debug\net5.0\numTwo.exe
+C:\CodebitsAcademy\C#  labTask\labTask5-Arrays\numTwo\bin\Debug\net5.0\numTwo.deps.json
+C:\CodebitsAcademy\C#  labTask\labTask5-Arrays\numTwo\bin\Debug\net5.0\numTwo.runtimeconfig.json
+C:\CodebitsAcademy\C#  labTask\labTask5-Arrays\numTwo\bin\Debug\net5.0\numTwo.runtimeconfig.dev.json
+C:\CodebitsAcademy\C#  labTask\labTask5-Arrays\numTwo\bin\Debug\net5.0\numTwo.dll
+C:\CodebitsAcademy\C#  labTask\labTask5-Arrays\numTwo\bin\Debug\net5.0\ref\numTwo.dll
+C:\CodebitsAcademy\C#  labTask\labTask5-Arrays\numTwo\bin\Debug\net5.0\numTwo.pdb
+C:\CodebitsAcademy\C#  labTask\labTask5-Arrays\numTwo\obj\Debug\net5.0\numTwo.csprojAssemblyReference.cache
+C:\CodebitsAcademy\C#  labTask\labTask5-Arrays\numTwo\obj\Debug\net5.0\numTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\C#  labTask\labTask5-Arrays\numTwo\obj\Debug\net5.0\numTwo.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask5-Arrays\numTwo\obj\Debug\net5.0\numTwo.AssemblyInfo.cs
+C:\CodebitsAcademy\C#  labTask\labTask5-Arrays\numTwo\obj\Debug\net5.0\numTwo.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask5-Arrays\numTwo\obj\Debug\net5.0\numTwo.dll
+C:\CodebitsAcademy\C#  labTask\labTask5-Arrays\numTwo\obj\Debug\net5.0\ref\numTwo.dll
+C:\CodebitsAcademy\C#  labTask\labTask5-Arrays\numTwo\obj\Debug\net5.0\numTwo.pdb
+C:\CodebitsAcademy\C#  labTask\labTask5-Arrays\numTwo\obj\Debug\net5.0\numTwo.genruntimeconfig.cache
